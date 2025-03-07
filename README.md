@@ -130,9 +130,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
 
 -->
 
-
-## Olá, meu nome é {seu nome}!
-
 ### ⚙️ GitHub Analytics
 
 <table>
