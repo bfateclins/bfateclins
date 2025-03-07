@@ -116,18 +116,20 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
 <!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=010ACC)-->
 
 <br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<!--<a href="https://github.com/iuricode" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+</a> -->
 
-## Onde me encontrar
+<!--## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 
 
 ---
+
+-->
+
 
 ## Olá, meu nome é {seu nome}!
 
