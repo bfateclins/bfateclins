@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  💭 Meta: Se tornar um desenvolvedor full stack.
+  💭 <strong>Meta</strong>: Se tornar um desenvolvedor full stack.
 </p>
 
 <p align="left">
-  💼 Serviço almejado: Pretendo trabalhar home office, porém tenho disponibilidade.
+  💼 <strong>Serviço almejado</strong>: Pretendo trabalhar home office, porém tenho disponibilidade.
 </p>
 
 <p align="left">
