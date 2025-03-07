@@ -2,7 +2,7 @@
 
 <br>
 
-## :tada: Bem vindo ao meu perfil no github ![](https://komarev.com/ghpvc/?username=bfateclins&color=006bed) [![GitHub](https://img.shields.io/github/followers/bhza?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+## :tada: Bem vindo ao meu perfil no github ![](https://komarev.com/ghpvc/?username=bfateclins&color=006bed) [![GitHub](https://img.shields.io/github/followers/bfateclins?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 <br>
 
