@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  💭 Meta: Se tornar um desenvolvedor full stack.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Serviço almejado: Pretendo trabalhar home office, porém tenho disponibilidade.
 </p>
 
 <p align="left">
